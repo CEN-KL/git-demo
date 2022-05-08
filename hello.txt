@@ -13,4 +13,4 @@ Hello, World, and ... hello, Git!
 Hello, World, and ... hello, Git!
 Hello, World, and ... hello, Git! master test!
 Hello, World, and ... hello, Git!
-Hello, World, and ... hello, Git!
+Hello, World, and ... hello, Git! hot-fix test! 
