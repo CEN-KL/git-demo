@@ -19,3 +19,4 @@ try ssh!
 try ssh pull!
 try ssh without password !
 try ssh without password again !
+fxxxkkkkkk!!!!!  success!!!!!!
